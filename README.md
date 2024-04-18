@@ -1,5 +1,8 @@
 # New York Taxi Fare Prediction
-This project focuses on predicting taxi fares in New York City. The dataset used includes information such as pickup and dropoff locations, timestamps, passenger counts, and fare amounts. The goal is to build a machine learning model that accurately estimates the fare for a taxi ride based on these features.
+![Untitled](https://github.com/ajith2189/New-York-City-Taxi-Fare-Prediction/assets/130132590/d1dbd2e6-5b43-4679-8d0b-bbc237b82483)
+
+This project focuses on predicting taxi fares in New York City. The dataset used includes information such as pickup and dropoff locations, timestamps, passenger counts, and fare amounts. The goa
+l is to build a machine learning model that accurately estimates the fare for a taxi ride based on these features.
 
 ## Data Preprocessing
 Cleaning the dataset by handling missing values, outliers, and erroneous entries.
